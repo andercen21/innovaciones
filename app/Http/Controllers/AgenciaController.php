@@ -15,6 +15,7 @@ class AgenciaController extends Controller
     public function create(Request $request){
         $agencia = new agencia();
 
+        $agencia -> id_agencia = $request -> id_agencia;
         $agencia -> nombre = $request -> nombre;
         $agencia -> direccion = $request -> direccion;
         $agencia -> telefono = $request -> telefono;

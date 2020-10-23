@@ -8,6 +8,9 @@
     <center>
     <form action="/create" method="POST">
         {{ csrf_field() }}
+        <label>Codigo de Agencia </label>
+        <input type="text" name="id_agencia" placeholder="codigo de agencia">
+        <br>
         <label>Nombre de Agencia</label>
         <input type="text" name="nombre" placeholder="nombre de agencia">
         <br>
