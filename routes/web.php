@@ -15,9 +15,9 @@
     return view('welcome');
 });*/
 
-Route::get('/create','AgenciaController@vista');
+Route::get('/','AgenciaController@vista');
 Route::post('/create','AgenciaController@create');
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+//Route::get('/home', 'HomeController@index')->name('home');

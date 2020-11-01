@@ -9,7 +9,7 @@ class AgenciaController extends Controller
 {
     //
     public function vista(){
-        return  view('agregar');
+        return  view('agencias');
     }
 
     public function create(Request $request){
