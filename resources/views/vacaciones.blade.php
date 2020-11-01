@@ -30,6 +30,9 @@
                 <div class="form-group">
                 <input type="text" name="estado"  class="form-control" placeholder="estado">
                 </div>
+                <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary">
+                </div>
             </form>
             </div>
         </div>
