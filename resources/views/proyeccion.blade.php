@@ -33,6 +33,9 @@
                 <div class="form-group">
                 <input type="text" name="id_agencias"  class="form-control" placeholder="codigo de agencia">
                 </div>
+                <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary">
+                </div>
             </form>
             </div>
         </div>

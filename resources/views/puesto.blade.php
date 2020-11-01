@@ -21,6 +21,9 @@
                 <div class="form-group">
                 <input type="text" name="puesto"  class="form-control" placeholder="puesto">
                 </div>
+                <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary">
+                </div>
             </form>
             </div>
         </div>

@@ -39,6 +39,9 @@
                 <div class="form-group">
                 <input type="text" name="correo"  class="form-control" placeholder="correo">
                 </div>
+                <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary">
+                </div>
             </form>
             </div>
         </div>

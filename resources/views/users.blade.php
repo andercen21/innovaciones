@@ -36,6 +36,9 @@
                 <div class="form-group">
                 <input type="text" name="updated_at"  class="form-control" placeholder="fecha y hora de logout">
                 </div>
+                <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary">
+                </div>
             </form>
             </div>
         </div>

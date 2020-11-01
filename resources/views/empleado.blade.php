@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE-edge">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-    <title>AGENCIAS</title>
+    <title>EMPLEADO</title>
 </head>
 <body>
     <div class="container">
@@ -38,6 +38,9 @@
                 </div>
                 <div class="form-group">
                 <input type="text" name="sexo"  class="form-control" placeholder="genero M / F">
+                </div>
+                <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary">
                 </div>
             </form>
             </div>
