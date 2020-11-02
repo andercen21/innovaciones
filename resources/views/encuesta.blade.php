@@ -19,43 +19,31 @@
             <form action="/create" method="POST">
             {{ csrf_field() }}
                 <div class="form-group">
-                <input type="text" name="id_encuestas"  class="form-control" placeholder="número de pregunta">
+                <input type="text" name="id_encuestas"  class="form-control" placeholder="La aplicación simplifica la gestión en selección de personal">
                 </div>
                 <div class="form-group">
-                <input type="text" name="pregunta"  class="form-control" placeholder="pregunta">
+                <input type="text" name="pregunta"  class="form-control" placeholder="respuesta">
                 </div>
                 <div class="form-group">
-                <input type="text" name="respuesta"  class="form-control" placeholder="respuesta">
+                <input type="text" name="respuesta"  class="form-control" placeholder="Te ahorra tiempo utilizar la aplicación">
                 </div>
                 <div class="form-group">
-                <input type="text" name="id_encuestas"  class="form-control" placeholder="número de pregunta">
+                <input type="text" name="id_encuestas"  class="form-control" placeholder="respuesta">
                 </div>
                 <div class="form-group">
-                <input type="text" name="pregunta"  class="form-control" placeholder="pregunta">
-                </div>
-                <div class="form-group">
-                <input type="text" name="respuesta"  class="form-control" placeholder="respuesta">
-                </div>
-                <div class="form-group">
-                <input type="text" name="pregunta"  class="form-control" placeholder="pregunta">
+                <input type="text" name="pregunta"  class="form-control" placeholder="Es dificil utilizar la aplicación">
                 </div>
                 <div class="form-group">
                 <input type="text" name="respuesta"  class="form-control" placeholder="respuesta">
                 </div>
                 <div class="form-group">
-                <input type="text" name="pregunta"  class="form-control" placeholder="pregunta">
+                <input type="text" name="pregunta"  class="form-control" placeholder="De 1 a 10 Te parece util la aplicación">
                 </div>
                 <div class="form-group">
                 <input type="text" name="respuesta"  class="form-control" placeholder="respuesta">
                 </div>
                 <div class="form-group">
-                <input type="text" name="pregunta"  class="form-control" placeholder="pregunta">
-                </div>
-                <div class="form-group">
-                <input type="text" name="respuesta"  class="form-control" placeholder="respuesta">
-                </div>
-                <div class="form-group">
-                <input type="submit" value="Guardar" class="btn btn-primary">
+                <input type="submit" value="Enviar encuesta" class="btn btn-primary">
                 </div>
             </form>
             </div>

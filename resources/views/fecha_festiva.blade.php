@@ -25,7 +25,7 @@
                 <input type="date" name="fecha"  class="form-control" placeholder="fecha">
                 </div>
                 <div class="form-group">
-                <input type="text" name="id_festividad"  class="form-control" placeholder="fecha festiva">
+                <input type="text" name="id_festividad"  class="form-control" placeholder="nombre de festividad">
                 </div>
                 <div class="form-group">
                 <input type="submit" value="Guardar" class="btn btn-primary">
