@@ -28,10 +28,10 @@
                 <input type="text" name="id_agencia"  class="form-control" placeholder="codigo de agencia">
                 </div>
                 <div class="form-group">
-                <input type="text" name="fecha_ingreso"  class="form-control" placeholder="fecha de ingreso">
+                <input type="date" name="fecha_ingreso"  class="form-control" placeholder="fecha de ingreso">
                 </div>
                 <div class="form-group">
-                <input type="text" name="fecha_baja"  class="form-control" placeholder="fecha de baja">
+                <input type="date" name="fecha_baja"  class="form-control" placeholder="fecha de baja">
                 </div>
                 <div class="form-group">
                 <input type="text" name="estado"  class="form-control" placeholder="activo / inactivo">

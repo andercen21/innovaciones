@@ -22,10 +22,10 @@
                 <input type="text" name="id_usuario"  class="form-control" placeholder="codigo de usuario">
                 </div>
                 <div class="form-group">
-                <input type="text" name="fecha_ini_sesion"  class="form-control" placeholder="fecha de login">
+                <input type="date" name="fecha_ini_sesion"  class="form-control" placeholder="fecha de login">
                 </div>
                 <div class="form-group">
-                <input type="text" name="fecha_fin_sesion"  class="form-control" placeholder="fecha de logout">
+                <input type="date" name="fecha_fin_sesion"  class="form-control" placeholder="fecha de logout">
                 </div>
                 <div class="form-group">
                 <input type="submit" value="Guardar" class="btn btn-primary">

@@ -22,7 +22,7 @@
                 <input type="text" name="id_agencia"  class="form-control" placeholder="codigo de agencia">
                 </div>
                 <div class="form-group">
-                <input type="text" name="fecha"  class="form-control" placeholder="fecha">
+                <input type="date" name="fecha"  class="form-control" placeholder="fecha">
                 </div>
                 <div class="form-group">
                 <input type="text" name="transacciones"  class="form-control" placeholder="transacciones">

@@ -25,7 +25,7 @@
                 <input type="text" name="operado"  class="form-control" placeholder="operado">
                 </div>
                 <div class="form-group">
-                <input type="text" name="fecha_operado"  class="form-control" placeholder="fecha de operacion">
+                <input type="date" name="fecha_operado"  class="form-control" placeholder="fecha de operacion">
                 </div>
                 <div class="form-group">
                 <input type="text" name="modificado"  class="form-control" placeholder="modificación">

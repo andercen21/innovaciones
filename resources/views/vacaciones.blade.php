@@ -22,10 +22,10 @@
                 <input type="text" name="id_empleado"  class="form-control" placeholder="codigo de empleado">
                 </div>
                 <div class="form-group">
-                <input type="text" name="fecha_salida"  class="form-control" placeholder="fecha de salida">
+                <input type="date" name="fecha_salida"  class="form-control" placeholder="fecha de salida">
                 </div>
                 <div class="form-group">
-                <input type="text" name="fecha_entrada"  class="form-control" placeholder="fecha de regreso">
+                <input type="date" name="fecha_entrada"  class="form-control" placeholder="fecha de regreso">
                 </div>
                 <div class="form-group">
                 <input type="text" name="estado"  class="form-control" placeholder="estado">

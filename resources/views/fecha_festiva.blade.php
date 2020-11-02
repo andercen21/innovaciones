@@ -19,7 +19,7 @@
                 <input type="text" name="id_fecha_festiva"  class="form-control" placeholder="fecha festiva">
                 </div>
                 <div class="form-group">
-                <input type="text" name="fecha"  class="form-control" placeholder="fecha">
+                <input type="date" name="fecha"  class="form-control" placeholder="fecha">
                 </div>
                 <div class="form-group">
                 <input type="text" name="id_festividad"  class="form-control" placeholder="fecha festiva">
