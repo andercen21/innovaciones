@@ -16,9 +16,6 @@
             <form action="/create" method="POST">
             {{ csrf_field() }}
                 <div class="form-group">
-                <input type="text" name="id_antiguedad_emp"  class="form-control" placeholder="codigo de antiguedad">
-                </div>
-                <div class="form-group">
                 <input type="text" name="id_empleado"  class="form-control" placeholder="codigo de empleado">
                 </div>
                 <div class="form-group">

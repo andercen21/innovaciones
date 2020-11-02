@@ -22,7 +22,7 @@
                 <input type="text" name="fecha"  class="form-control" placeholder="fecha">
                 </div>
                 <div class="form-group">
-                <input type="text" name="id_festividad"  class="form-control" placeholder="festividad>
+                <input type="text" name="id_festividad"  class="form-control" placeholder="fecha festiva">
                 </div>
                 <div class="form-group">
                 <input type="submit" value="Guardar" class="btn btn-primary">

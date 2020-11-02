@@ -36,9 +36,7 @@
                 <div class="form-group">
                 <input type="text" name="auditoriacol"  class="form-control" placeholder="auditoria col">
                 </div>
-                <div class="form-group">
-                <input type="submit" value="Guardar" class="btn btn-primary">
-                </div>
+
             </form>
             </div>
         </div>

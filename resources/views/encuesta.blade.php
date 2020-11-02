@@ -16,7 +16,34 @@
             <form action="/create" method="POST">
             {{ csrf_field() }}
                 <div class="form-group">
-                <input type="text" name="id_encuestas"  class="form-control" placeholder="número de encuesta">
+                <input type="text" name="id_encuestas"  class="form-control" placeholder="número de pregunta">
+                </div>
+                <div class="form-group">
+                <input type="text" name="pregunta"  class="form-control" placeholder="pregunta">
+                </div>
+                <div class="form-group">
+                <input type="text" name="respuesta"  class="form-control" placeholder="respuesta">
+                </div>
+                <div class="form-group">
+                <input type="text" name="id_encuestas"  class="form-control" placeholder="número de pregunta">
+                </div>
+                <div class="form-group">
+                <input type="text" name="pregunta"  class="form-control" placeholder="pregunta">
+                </div>
+                <div class="form-group">
+                <input type="text" name="respuesta"  class="form-control" placeholder="respuesta">
+                </div>
+                <div class="form-group">
+                <input type="text" name="pregunta"  class="form-control" placeholder="pregunta">
+                </div>
+                <div class="form-group">
+                <input type="text" name="respuesta"  class="form-control" placeholder="respuesta">
+                </div>
+                <div class="form-group">
+                <input type="text" name="pregunta"  class="form-control" placeholder="pregunta">
+                </div>
+                <div class="form-group">
+                <input type="text" name="respuesta"  class="form-control" placeholder="respuesta">
                 </div>
                 <div class="form-group">
                 <input type="text" name="pregunta"  class="form-control" placeholder="pregunta">

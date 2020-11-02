@@ -11,7 +11,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-5">
-            <h2>DEPARTAMENTOS DE GUATEMALA/h2>
+            <h2>DEPARTAMENTOS DE GUATEMALA</h2>
             <br>
             <form action="/create" method="POST">
             {{ csrf_field() }}
