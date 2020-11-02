@@ -19,7 +19,7 @@
 //Route::get('/','AntiguedadController@vista');
 //Route::get('/','AuditoriaController@vista');
 //Route::get('/','DepartamentoController@vista');
-//Route::get('/','EmpleadoController@vista');
+Route::get('/','EmpleadoController@vista');
 //Route::get('/','EncuestaController@vista');
 //Route::get('/','Fecha_FestividadController@vista');
 //Route::get('/','FestividadController@vista');
@@ -31,7 +31,7 @@
 //Route::get('/','TipoAgenciaController@vista');
 //Route::get('/','TransaccionController@vista');
 //Route::get('/','TrasladoController@vista');
-Route::get('/','VacacionesController@vista');
+//Route::get('/','VacacionesController@vista');
 
 Route::post('/create','AgenciaController@create');
 

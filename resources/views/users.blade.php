@@ -11,9 +11,10 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-5">
+            <br>
+            <br>
+            <br>
             <h2>USERS</h2>
-            <br>
-            <br>
             <br>
             <form action="/create" method="POST">
             {{ csrf_field() }}
