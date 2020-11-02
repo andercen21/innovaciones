@@ -13,6 +13,8 @@
             <div class="col-md-5">
             <h2>DEPARTAMENTOS DE GUATEMALA</h2>
             <br>
+            <br>
+            <br>
             <form action="/create" method="POST">
             {{ csrf_field() }}
                 <div class="form-group">

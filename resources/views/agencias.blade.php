@@ -12,6 +12,8 @@
         <div class="row justify-content-center">
             <div class="col-md-5">
             <h2>CREAR AGENCIA</h2>
+            <br>            
+            <br>
             <br>
             <form action="/create" method="POST">
             {{ csrf_field() }}
