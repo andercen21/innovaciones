@@ -20,10 +20,10 @@
 //Route::get('/','AuditoriaController@vista');
 //Route::get('/','DepartamentoController@vista');
 //Route::get('/','EmpleadoController@vista');
-Route::get('/','EncuestaController@vista');
+//Route::get('/','EncuestaController@vista');
 //Route::get('/','Fecha_FestividadController@vista');
 //Route::get('/','FestividadController@vista');
-//Route::get('/','MensajeController@vista');
+Route::get('/','MensajeController@vista');
 //Route::get('/','MunicipioController@vista');
 //Route::get('/','ProyeccionController@vista');
 //Route::get('/','PuestoController@vista');
