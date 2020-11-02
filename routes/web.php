@@ -23,7 +23,15 @@
 //Route::get('/','EncuestaController@vista');
 //Route::get('/','Fecha_FestividadController@vista');
 //Route::get('/','FestividadController@vista');
-Route::get('/','MensajeController@vista');
+//Route::get('/','MensajeController@vista');
+//Route::get('/','MunicipioController@vista');
+//Route::get('/','ProyeccionController@vista');
+//Route::get('/','PuestoController@vista');
+//Route::get('/','RegionController@vista');
+//Route::get('/','TipoAgenciaController@vista');
+//Route::get('/','TransaccionController@vista');
+//Route::get('/','TrasladoController@vista');
+Route::get('/','VacacionesController@vista');
 
 Route::post('/create','AgenciaController@create');
 

@@ -11,7 +11,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-5">
-            <h2>MUNICIPIOS DE GUATEMALA/h2>
+            <h2>MUNICIPIOS DE GUATEMALA</h2>
             <br>
             <form action="/create" method="POST">
             {{ csrf_field() }}
@@ -20,6 +20,9 @@
                 </div>
                 <div class="form-group">
                 <input type="text" name="municipio"  class="form-control" placeholder="municipio">
+                </div>
+                <div class="form-group">
+                <input type="text" name="id_departamento"  class="form-control" placeholder=" codigo departamento">
                 </div>
                 <div class="form-group">
                 <input type="submit" value="Guardar" class="btn btn-primary">
