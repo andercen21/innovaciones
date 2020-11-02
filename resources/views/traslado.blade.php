@@ -25,7 +25,7 @@
                 <input type="text" name="codigo_agencia"  class="form-control" placeholder="codigo de agencia">
                 </div>
                 <div class="form-group">
-                <input type="text" name="fecha_cambio"  class="form-control" placeholder="fecha de cambio">
+                <input type="date" name="fecha_cambio"  class="form-control" placeholder="fecha de cambio">
                 </div>
                 <div class="form-group">
                 <input type="submit" value="Guardar" class="btn btn-primary">
